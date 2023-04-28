@@ -1,7 +1,7 @@
 .idea/
 .DS_Store
 output/
-/dist/
+#/dist/#ban now
 
 # Binaries for programs and plugins
 *.exe
