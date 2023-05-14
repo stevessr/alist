@@ -165,3 +165,16 @@ Error #01: write tcp 127.0.0.1:5244->127.0.0.1:42748: write: broken pipe
 [GIN] 2023/04/28 - 13:14:59 | 200 |      56.702µs |       127.0.0.1 | GET      "/assets/item_type.be442da4.js"
 [GIN] 2023/04/28 - 13:14:59 | 200 |     514.512µs |       127.0.0.1 | GET      "/api/admin/setting/list?group=1"
 [GIN] 2023/04/28 - 13:15:00 | 200 |     486.211µs |       127.0.0.1 | GET      "/api/admin/setting/list?group=2"
+[31mFATA[0m[2023-05-12 20:05:39] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:05:46] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:06:07] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:06:50] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:06:56] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:00] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:01] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:01] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:02] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:06] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:06] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:07] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
+[31mFATA[0m[2023-05-12 20:07:09] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
