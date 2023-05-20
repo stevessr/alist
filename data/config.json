@@ -4,7 +4,7 @@
   "port": 5244,
   "site_url": "",
   "cdn": "",
-  "jwt_secret": "edVhBuTY3TUDZlEn",
+  "jwt_secret": "mb19Y68pjxZ8xHtw",
   "token_expires_in": 48,
   "database": {
     "type": "sqlite3",
@@ -13,7 +13,7 @@
     "user": "",
     "password": "",
     "name": "",
-    "db_file": "data/data.db",
+    "db_file": "data\\data.db",
     "table_prefix": "x_",
     "ssl_mode": ""
   },
@@ -22,11 +22,11 @@
     "cert_file": "",
     "key_file": ""
   },
-  "temp_dir": "data/temp",
-  "bleve_dir": "data/bleve",
+  "temp_dir": "data\\temp",
+  "bleve_dir": "data\\bleve",
   "log": {
     "enable": true,
-    "name": "data/log/log.log",
+    "name": "data\\log\\log.log",
     "max_size": 10,
     "max_backups": 5,
     "max_age": 28,
