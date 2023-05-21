@@ -1,9 +1,0 @@
-[31mFATA[0m[2023-05-20 22:08:53] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:09:17] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:09:20] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:09:22] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:09:31] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:10:17] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:10:19] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:10:19] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 
-[31mFATA[0m[2023-05-20 22:10:20] failed to connect database:Binary was compiled with 'CGO_ENABLED=0', go-sqlite3 requires cgo to work. This is a stub 

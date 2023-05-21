@@ -13,7 +13,7 @@ type Addition struct {
 }
 
 var config = driver.Config{
-	Name:        "AList V2",
+	Name:        "奥里斯塔",
 	LocalSort:   true,
 	NoUpload:    true,
 	DefaultRoot: "/",
