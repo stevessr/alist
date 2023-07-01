@@ -143,8 +143,20 @@ func LoadAllStorages(c *gin.Context) {
 				log.Errorf("failed get enabled storages: %+v", err)
 				continue
 			}
-			log.Infof("success load storage: [%s], driver: [%s]",
-				storage.MountPath, storage.Driver)
+			if storage.Driver == "AList V3" {
+				log.Infof("success load storage: [%s], driver: [%s]",
+					storage.MountPath, "本项目V3版本")
+			} else {
+				if storage.Driver == "AList" {
+					log.Infof("success load storage: [%s], driver: [%s]",
+						storage.MountPath, "本项目V2版本")
+				} else {
+					log.Infof("success load storage: [%s], driver: [%s]",
+						storage.MountPath, storage.Driver)
+				}
+
+			}
+
 		}
 		conf.StoragesLoaded = true
 	}(storages)
